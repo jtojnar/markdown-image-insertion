@@ -1,0 +1,18 @@
+{
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "Markdown",
+					"submenu": [
+						{
+							"label": "Insert images",
+							"command": "markdown-image-insertion:insert-images"
+						}
+					]
+				}
+			]
+		}
+	]
+}

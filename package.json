@@ -1,0 +1,19 @@
+{
+	"name": "markdown-image-insertion",
+	"main": "./lib/markdown-image-insertion",
+	"version": "0.0.1",
+	"description": "Simple helper for inserting images into markdown documents.",
+	"keywords": [
+		"markdown",
+		"image"
+	],
+	"activationCommands": {
+		"atom-workspace": "markdown-image-insertion:insert-images"
+	},
+	"repository": "https://github.com/jtojnar/markdown-image-insertion",
+	"license": "MIT",
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"dependencies": {}
+}
