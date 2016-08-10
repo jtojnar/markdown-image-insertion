@@ -1,7 +1,7 @@
 {
 	"name": "markdown-image-insertion",
 	"main": "./lib/markdown-image-insertion",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "Simple helper for inserting images into markdown documents.",
 	"keywords": [
 		"markdown",
