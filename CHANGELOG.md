@@ -1,4 +1,8 @@
 # markdown-image-insertion changes
+## 0.3.0 – 2021-04-14
+### Fixed
+* Migrate to async API to fix with Electron 6/Atom 1.54. (https://github.com/jtojnar/markdown-image-insertion/issues/5)
+
 ## 0.2.2 – 2020-06-12
 ### Fixed
 * Replace all backslashes with “fix slashes” option instead of just the first one. (https://github.com/jtojnar/markdown-image-insertion/issues/2)
