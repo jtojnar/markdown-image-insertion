@@ -1,4 +1,8 @@
 # markdown-image-insertion changes
+## 0.3.1 – 2022-04-22
+### Added
+* Added `webp` and `svg` to the Images filter in file chooser.
+
 ## 0.3.0 – 2021-04-14
 ### Fixed
 * Migrate to async API to fix with Electron 6/Atom 1.54. (https://github.com/jtojnar/markdown-image-insertion/issues/5)
